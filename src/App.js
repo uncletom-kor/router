@@ -5,8 +5,6 @@ import Videos from './pages/Videos';
 import NotFound from './pages/NotFound';
 import Root from './pages/Root';
 
-
-// 
 const router = createBrowserRouter([
     {
         path: '/',
